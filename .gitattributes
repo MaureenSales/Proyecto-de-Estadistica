@@ -1,0 +1,2 @@
+DataSetsDowloaders/data/raw/kaggle/database.csv filter=lfs diff=lfs merge=lfs -text
+DataSets/*.zip filter=lfs diff=lfs merge=lfs -text

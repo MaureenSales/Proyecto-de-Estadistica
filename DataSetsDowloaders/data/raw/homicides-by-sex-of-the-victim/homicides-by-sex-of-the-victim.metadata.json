@@ -1,0 +1,59 @@
+{
+  "chart": {
+    "title": "Homicides, by sex of the victim",
+    "subtitle": "Annual number of deaths due to [homicide](#dod:homicide), by sex.",
+    "citation": "UN, World Population Prospects (2024); United Nations Office on Drugs and Crime (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/homicides-by-sex-of-the-victim?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Homicides - sex: Female - age: Total": {
+      "titleShort": "Homicides of female victims",
+      "titleLong": "Homicides of female victims",
+      "descriptionShort": "Number of intentional [homicides](#dod:homicide)of female victims\n.",
+      "descriptionKey": [
+        "UNODC collects intentional homicide data from criminal justice systems (law enforcement records) and public health systems (death certificates).",
+        "Intentional homicide requires three elements: one person killing another, intent to kill or seriously injure, and the act was illegal. For example, a person who kills another in self-defence is not considered to have committed an intentional homicide as justifiable homicide in self-defence is not illegal.",
+        "All killings that meet the criteria listed below are to be considered intentional homicides, irrespective of definitions provided by national legislations or practices.",
+        "Terrorist killings are included as intentional homicides."
+      ],
+      "descriptionProcessing": "Values for the United Kingdom are calculated by Our World in Data from UNODC data for England, Wales, Scotland and Northern Ireland.\n\nRates for the most recent year are calculated using medium population projection estimates from the United Nations World Population Prospects.",
+      "unit": "homicides",
+      "timespan": "1990-2024",
+      "type": "Numeric",
+      "owidVariableId": 1035033,
+      "shortName": "value__category_total__sex_female__age_total__unit_of_measurement_counts",
+      "lastUpdated": "2025-05-28",
+      "nextUpdate": "2026-05-28",
+      "citationShort": "UN, World Population Prospects (2024); United Nations Office on Drugs and Crime (2025) – with major processing by Our World in Data",
+      "citationLong": "UN, World Population Prospects (2024); United Nations Office on Drugs and Crime (2025) – with major processing by Our World in Data. “Homicides of female victims” [dataset]. United Nations Office on Drugs and Crime, “United Nations Office on Drugs and Crime - Intentional Homicide Victims”; United Nations, “World Population Prospects”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1035033.metadata.json"
+    },
+    "Homicides - sex: Male - age: Total": {
+      "titleShort": "Homicides of male victims",
+      "titleLong": "Homicides of male victims",
+      "descriptionShort": "Number of intentional [homicides](#dod:homicide)of male victims.",
+      "descriptionKey": [
+        "UNODC collects intentional homicide data from criminal justice systems (law enforcement records) and public health systems (death certificates).",
+        "Intentional homicide requires three elements: one person killing another, intent to kill or seriously injure, and the act was illegal. For example, a person who kills another in self-defence is not considered to have committed an intentional homicide as justifiable homicide in self-defence is not illegal.",
+        "All killings that meet the criteria listed below are to be considered intentional homicides, irrespective of definitions provided by national legislations or practices.",
+        "Terrorist killings are included as intentional homicides."
+      ],
+      "descriptionProcessing": "Values for the United Kingdom are calculated by Our World in Data from UNODC data for England, Wales, Scotland and Northern Ireland.\n\nRates for the most recent year are calculated using medium population projection estimates from the United Nations World Population Prospects.",
+      "unit": "homicides",
+      "timespan": "1990-2024",
+      "type": "Numeric",
+      "owidVariableId": 1035035,
+      "shortName": "value__category_total__sex_male__age_total__unit_of_measurement_counts",
+      "lastUpdated": "2025-05-28",
+      "nextUpdate": "2026-05-28",
+      "citationShort": "UN, World Population Prospects (2024); United Nations Office on Drugs and Crime (2025) – with major processing by Our World in Data",
+      "citationLong": "UN, World Population Prospects (2024); United Nations Office on Drugs and Crime (2025) – with major processing by Our World in Data. “Homicides of male victims” [dataset]. United Nations Office on Drugs and Crime, “United Nations Office on Drugs and Crime - Intentional Homicide Victims”; United Nations, “World Population Prospects”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1035035.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-12-28",
+  "activeFilters": {}
+}

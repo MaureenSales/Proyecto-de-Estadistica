@@ -1,0 +1,51 @@
+{
+  "chart": {
+    "title": "Share of deaths from violence in non-state societies",
+    "subtitle": "Non-state societies are those that consists of a chiefdom, tribe, or clan.",
+    "citation": "Bowles, S. (2009), Gat, A. (2008), Knauft, B. M. et al (1987), Keeley, L. H. (1996), Pinker, S. (2011), and Walker, R. S., & Bailey, D. H. (2013)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/share-of-violent-deaths-non-state-societies?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Arawete",
+      "Tiwi (Hunter-Gatherer)",
+      "Anbara (N. Australia) (Hunter-Gatherer)",
+      "Achuar",
+      "Anggor",
+      "Ayoreo (Hunter-Gatherer); 1920 - 1979 CE",
+      "Dani (Papua New Guinea)",
+      "Enga (Papua New Guinea)",
+      "Gebusi",
+      "Huli",
+      "Kayapo",
+      "Modoc, Northern California",
+      "The Waorani (Ecuadorian Amazon)",
+      "Tribal Montenegro; 1900 CE",
+      "Wari",
+      "Yanomamo-Shamatari",
+      "Yanomamo",
+      "Xilixana",
+      "Tsimane",
+      "The Murngin of Arnhem Land (Hunter-Gatherer)",
+      "Mae Enga",
+      "Jivaro",
+      "Hiwi (Hunter-Gatherer)",
+      "Gebusi (Papua New Guinea)",
+      "Dugum Dani",
+      "Casiguran Agta (Philippines) (Hunter-Gatherer); 1962 - 1977 CE"
+    ]
+  },
+  "columns": {
+    "Share of violent deaths (non-state societies)": {
+      "titleShort": "Share of violent deaths (non-state societies)",
+      "titleLong": "Share of violent deaths (non-state societies)",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "owidVariableId": 109896,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Share of violent deaths (non-state societies)” [dataset]. Bowles, S. (2009), Gat, A. (2008), Knauft, B. M. et al (1987), Keeley, L. H. (1996), Pinker, S. (2011), and Walker, R. S., & Bailey, D. H. (2013) [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/109896.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-12-28",
+  "activeFilters": {}
+}
